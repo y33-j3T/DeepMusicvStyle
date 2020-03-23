@@ -1,4 +1,5 @@
 # When Music Meets A.I.
+[Paper](http://web.fsktm.um.edu.my/~cschan/doc/ICME2020.pdf) | [Music Samples (.mp3)](https://bit.ly/3b5QYKW)
 
 ### Official TF implementation of the paper: "Style-conditioned Music Generation"
 
@@ -69,5 +70,7 @@ Suggestions and opinions of any sort are welcomed. Please contact the authors by
 
 ## License and Copyright
 This project is open source under the BSD-3 license (see [`LICENSE`](./LICENSE)). Codes can be used freely only for academic purpose.
+
+For commercial purpose usage, please contact Dr. Chee Seng Chan at `cs.chan at um.edu.my`
 
 &#169;2020 Center of Image and Signal Processing, Faculty of Computer Science and Information Technology, University of Malaya.
